@@ -1,6 +1,5 @@
 % Basic Scientific Calculator in MATLAB
-% This script provides a simple scientific calculator that performs
-% basic arithmetic, exponential, logarithmic, and trigonometric operations.
+% This script provides a simple scientific calculator that performs basic arithmetic, exponential, logarithmic, and trigonometric operations.
 
 function basic_scientific_calculator
     % Infinite loop to keep the calculator running until the user decides to exit
